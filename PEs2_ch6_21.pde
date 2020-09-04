@@ -7,3 +7,4 @@ void draw() {
   line(0, 50, d, 50);
   line(x, 60, x+d, 60);
 }
+// error
