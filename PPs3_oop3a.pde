@@ -14,7 +14,6 @@ void draw() {
 
 
 
-
 class Square {
   
   float x; 
